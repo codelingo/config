@@ -1,0 +1,10 @@
+[
+    {
+        "owner": "juju",
+        "name": "juju"
+    },
+    {
+        "owner": "jenkins-x",
+        "name": "jx"
+    }
+]
