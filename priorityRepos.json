@@ -1,10 +1,22 @@
 [
-    {
-        "owner": "juju",
-        "name": "juju"
-    },
-    {
-        "owner": "jenkins-x",
-        "name": "jx"
-    }
+  {
+    "owner": "juju",
+    "name": "juju"
+  },
+  {
+    "owner": "jenkins-x",
+    "name": "jx"
+  },
+  {
+    "owner": "dgraph",
+    "name": "badger"
+  },
+  {
+    "owner": "replicatedhq",
+    "name": "vandoor"
+  },
+  {
+    "owner": "replicatedhq",
+    "name": "troubleshoot"
+  }
 ]
