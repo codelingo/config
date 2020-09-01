@@ -1,0 +1,11 @@
+[
+  "codelingo",
+  "codelingobot",
+  "stagingcodelingobot",
+  "codelingoteam",
+  "Daanikus",
+  "waigani",
+  "rstorr",
+  "replicatedhq",
+  "fwereade",
+];
