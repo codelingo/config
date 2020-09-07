@@ -14,5 +14,9 @@
   {
     "owner": "replicatedhq",
     "name": "troubleshoot"
+  },
+  {
+    "owner": "cloud-custodian",
+    "name": "cloud-custodian"
   }
 ]
