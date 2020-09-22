@@ -18,5 +18,9 @@
   {
     "owner": "cloud-custodian",
     "name": "cloud-custodian"
+  },
+  {
+    "owner": "dgraph-io",
+    "name": "dgraph"
   }
 ]
