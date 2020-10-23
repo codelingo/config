@@ -7,5 +7,6 @@
   "cloud-custodian",
   "helderklemp",
   "tracplus",
-  "NarrativeApp"
+  "NarrativeApp",
+  "hashicorp"
 ]
