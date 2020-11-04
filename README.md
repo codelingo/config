@@ -9,7 +9,7 @@ Always add an explanation of what your file is for.
 
 ## Files
 
-### priorityRepos.json
+### adminAccessRepos.json
 
 List of `{owner, name}` objects identifying repos we always want CodeLingo employees to
 have access to, whether or not the repos have CodeLingo installed.
@@ -25,8 +25,12 @@ just because they're on this list; we'd also need them to add the bot as a contr
 List of `owner` strings identifying groups of repos where we always want CodeLingo
 employees to have access, so long as the repos have CodeLingo installed.
 
-
 ### defaultRules.json
 
 List of `{language, keys}` objects identifying default install rule keys for a
 particular language.
+
+### priorityUsers.json
+
+List of `owner` strings identifying users where we always want to be pinged on
+slack about there activity.
