@@ -1,0 +1,12 @@
+[
+  {
+    "language": "Go",
+    "keys": [
+      "codelingo/code-review-comments/same-receiver-name",
+      "codelingo/go/unchecked-type-assertion",
+      "codelingo/effective-go/comment-first-word-when-empty",
+      "codelingo/effective-go/avoid-annotations-in-comments",
+      "codelingo/go/reassigned-error"
+    ]
+  }
+]
